@@ -35,7 +35,7 @@ p {
 
   &-image {
     position: relative;
-    background-image: url("~assets/images/dylan.jpeg");
+    background-image: url("~assets/images/dylan-min.png");
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
